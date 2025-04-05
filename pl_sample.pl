@@ -1,2 +1,2 @@
 #!/usr/bin/perl
-print "Test Perl";
+print "Perl script test\n";

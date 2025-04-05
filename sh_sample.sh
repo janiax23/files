@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Test SH
+echo 'Shell script test'

@@ -1,1 +1,1 @@
-console.log("Test JavaScript file");
+console.log('JavaScript file test');

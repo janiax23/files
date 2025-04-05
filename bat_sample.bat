@@ -1,1 +1,3 @@
-Windows batch script
+@echo off
+echo Batch script test
+pause

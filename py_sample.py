@@ -1,1 +1,1 @@
-print('Test Python')
+print('Python script test')

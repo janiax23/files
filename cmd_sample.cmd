@@ -1,1 +1,3 @@
-Test file for cmd
+@echo off
+echo CMD script test
+pause

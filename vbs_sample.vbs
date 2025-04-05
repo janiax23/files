@@ -1,1 +1,1 @@
-MsgBox "Hello from VBScript!"
+MsgBox "VBScript file test"

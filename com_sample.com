@@ -1,1 +1,1 @@
-Test file for com
+ËCOM_CONTENT_SIMULATION
